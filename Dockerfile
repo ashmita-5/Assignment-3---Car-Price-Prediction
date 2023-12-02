@@ -20,3 +20,5 @@ COPY . .
 EXPOSE 5000
 
 CMD flask --app main run --host 0.0.0.0:5000
+
+
